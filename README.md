@@ -58,7 +58,7 @@ The signed APK will be stored in the folder you specify (e.g., `YourFolderName/s
 You can change the tools directory by editing this line in the script:
 
 ```bat
-set "TOOLSDIR="
+set "TOOLSDIR=SET Your Tool Path"
 
 ```
 
