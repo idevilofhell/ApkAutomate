@@ -79,6 +79,15 @@ If you found this tool useful and would like to support its development.
 
 Let me know if you'd like to modify or add anything else!
 
+## 🙏 Special Thanks
+
+A big thank you to the developers of the following tools:
+
+- **[uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)**: For providing a simple and efficient way to sign APKs with robust features.
+- **[APKEditor](https://github.com/REAndroid/APKEditor)**: For creating a powerful tool to modify APK files and merge APK splits.
+
+Their hard work and dedication make this tool possible!
+
 
 
 
